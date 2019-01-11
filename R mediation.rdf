@@ -1,0 +1,206 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="http://doi.apa.org/getdoi.cfm?doi=10.1037/a0020761">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1939-1463,%201082-989X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Imai</foaf:surname>
+                        <foaf:givenname>Kosuke</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keele</foaf:surname>
+                        <foaf:givenname>Luke</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tingley</foaf:surname>
+                        <foaf:givenname>Dustin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2624"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doi.apa.org/getdoi.cfm?doi=10.1037/a0020761</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>309-334</bib:pages>
+        <dc:date>2010</dc:date>
+        <dcterms:dateSubmitted>2018-07-05 17:33:46</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Traditionally in the social sciences, causal mediation analysis has been formulated, understood, and implemented within the framework of linear structural equation models. We argue and demonstrate that this is problematic for 3 reasons: the lack of a general deﬁnition of causal mediation effects independent of a particular statistical model, the inability to specify the key identiﬁcation assumption, and the difﬁculty of extending the framework to nonlinear models. In this article, we propose an alternative approach that overcomes these limitations. Our approach is general because it offers the deﬁnition, identiﬁcation, estimation, and sensitivity analysis of causal mediation effects without reference to any speciﬁc statistical model. Further, our approach explicitly links these 4 elements closely together within a single framework. As a result, the proposed framework can accommodate linear and nonlinear relationships, parametric and nonparametric models, continuous and discrete mediators, and various types of outcome variables. The general deﬁnition and identiﬁcation result also allow us to develop sensitivity analysis in the context of commonly used models, which enables applied researchers to formally assess the robustness of their empirical conclusions to violations of the key assumption. We illustrate our approach by applying it to the Job Search Intervention Study. We also offer easy-to-use software that implements all our proposed methods.</dcterms:abstract>
+        <dc:title>A general approach to causal mediation analysis.</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1939-1463,%201082-989X">
+        <prism:volume>15</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Psychological Methods</dc:title>
+        <dc:identifier>ISSN 1939-1463, 1082-989X</dc:identifier>
+        <dc:identifier>DOI 10.1037/a0020761</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2624">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Imai et al. - 2010 - A general approach to causal mediation analysis..pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.jstor.org/stable/41058997">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0883-4237"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Imai</foaf:surname>
+                        <foaf:givenname>Kosuke</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keele</foaf:surname>
+                        <foaf:givenname>Luke</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yamamoto</foaf:surname>
+                        <foaf:givenname>Teppei</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2627"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.jstor.org/stable/41058997</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>51-71</bib:pages>
+        <dc:date>2010</dc:date>
+        <dcterms:dateSubmitted>2018-07-05 17:34:39</dcterms:dateSubmitted>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dcterms:abstract>Causal mediation analysis is routinely conducted by applied researchers in a variety of disciplines. The goal of such an analysis is to investigate alternative causal mechanisms by examining the roles of intermediate variables that lie in the causal paths between the treatment and outcome variables. In this paper we first prove that under a particular version of sequential ignorability assumption, the average causal mediation effect (ACME) is nonparametrically identified. We compare our identification assumption with those proposed in the literature. Some practical implications of our identification result are also discussed. In particular, the popular estimator based on the linear structural equation model (LSEM) can be interpreted as an ACME estimator once additional parametric assumptions are made. We show that these assumptions can easily be relaxed within and outside of the LSEM framework and propose simple nonparametric estimation strategies. Second, and perhaps most importantly, we propose a new sensitivity analysis that can be easily implemented by applied researchers within the LSEM framework. Like the existing identifying assumptions, the proposed sequential ignorability assumption may be too strong in many applied settings. Thus, sensitivity analysis is essential in order to examine the robustness of empirical findings to the possible existence of an unmeasured confounder. Finally, we apply the proposed methods to a randomized experiment from political psychology. We also make easy-to-use software available to implement the proposed methods.</dcterms:abstract>
+        <dc:title>Identification, Inference and Sensitivity Analysis for Causal Mediation Effects</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0883-4237">
+        <prism:volume>25</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Statistical Science</dc:title>
+        <dc:identifier>ISSN 0883-4237</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2627">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdfplus/10.2307/41058997.pdf?acceptTC=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-07-05 17:34:42</dcterms:dateSubmitted>
+        <dc:title>JSTOR Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.jstatsoft.org/v59/i05/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1548-7660"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tingley</foaf:surname>
+                        <foaf:givenname>Dustin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yamamoto</foaf:surname>
+                        <foaf:givenname>Teppei</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hirose</foaf:surname>
+                        <foaf:givenname>Kentaro</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keele</foaf:surname>
+                        <foaf:givenname>Luke</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Imai</foaf:surname>
+                        <foaf:givenname>Kosuke</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3300"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.jstatsoft.org/v59/i05/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2014</dc:date>
+        <dcterms:dateSubmitted>2018-10-08 20:59:48</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>In this paper, we describe the R package mediation for conducting causal mediation analysis in applied empirical research. In many scientiﬁc disciplines, the goal of researchers is not only estimating causal eﬀects of a treatment but also understanding the process in which the treatment causally aﬀects the outcome. Causal mediation analysis is frequently used to assess potential causal mechanisms. The mediation package implements a comprehensive suite of statistical tools for conducting such an analysis. The package is organized into two distinct approaches. Using the model-based approach, researchers can estimate causal mediation eﬀects and conduct sensitivity analysis under the standard research design. Furthermore, the design-based approach provides several analysis tools that are applicable under diﬀerent experimental designs. This approach requires weaker assumptions than the model-based approach. We also implement a statistical method for dealing with multiple (causally dependent) mediators, which are often encountered in practice. Finally, the package also oﬀers a methodology for assessing causal mediation in the presence of treatment noncompliance, a common problem in randomized trials.</dcterms:abstract>
+        <dc:title>&lt;b&gt;mediation&lt;/b&gt; : &lt;i&gt;R&lt;/i&gt; Package for Causal Mediation Analysis</dc:title>
+        <z:shortTitle>&lt;b&gt;mediation&lt;/b&gt;</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1548-7660">
+        <prism:volume>59</prism:volume>
+        <prism:number>5</prism:number>
+        <dc:title>Journal of Statistical Software</dc:title>
+        <dc:identifier>ISSN 1548-7660</dc:identifier>
+        <dc:identifier>DOI 10.18637/jss.v059.i05</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3300">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Tingley et al. - 2014 - bmediationb  iRi Package for Causal Med.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://data.library.virginia.edu/introduction-to-mediation-analysis/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_3344"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.library.virginia.edu/introduction-to-mediation-analysis/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-10-08 21:05:20</dcterms:dateSubmitted>
+        <dc:title>Introduction to Mediation Analysis | University of Virginia Library Research Data Services + Sciences</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_3344">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.library.virginia.edu/introduction-to-mediation-analysis/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-10-08 21:05:21</dcterms:dateSubmitted>
+        <dc:title>Introduction to Mediation Analysis | University of Virginia Library Research Data Services + Sciences</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
