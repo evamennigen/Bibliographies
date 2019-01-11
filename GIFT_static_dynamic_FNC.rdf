@@ -1,0 +1,3026 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0896627314009131">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0896-6273"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>V. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miller</foaf:surname>
+                        <foaf:givenname>R. L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pearlson</foaf:surname>
+                        <foaf:givenname>G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adalı</foaf:surname>
+                        <foaf:givenname>T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_792"/>
+        <link:link rdf:resource="#item_791"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0896627314009131</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>262-274</bib:pages>
+        <dc:date>October 22, 2014</dc:date>
+        <dcterms:dateSubmitted>2016-04-22 22:45:57</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Recent years have witnessed a rapid growth of interest in moving functional magnetic resonance imaging (fMRI) beyond simple scan-length averages and into approaches that capture time-varying properties of connectivity. In this Perspective we use the term “chronnectome” to describe metrics that allow a dynamic view of coupling. In the chronnectome, coupling refers to possibly time-varying levels of correlated or mutually informed activity between brain regions whose spatial properties may also be temporally evolving. We primarily focus on multivariate approaches developed in our group and review a number of approaches with an emphasis on matrix decompositions such as principle component analysis and independent component analysis. We also discuss the potential these approaches offer to improve characterization and understanding of brain function. There are a number of methodological directions that need to be developed further, but chronnectome approaches already show great promise for the study of both the healthy and the diseased brain.</dcterms:abstract>
+        <dc:title>The Chronnectome: Time-Varying Connectivity Networks as the Next Frontier in fMRI Data Discovery</dc:title>
+        <z:shortTitle>The Chronnectome</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0896-6273">
+        <prism:volume>84</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>Neuron</dc:title>
+        <dc:identifier>ISSN 0896-6273</dc:identifier>
+        <dcterms:alternative>Neuron</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.neuron.2014.10.015</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_792">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0896627314009131/pdfft?md5=dd33490b5e1ff7ad9fcd7305ec00f188&amp;pid=1-s2.0-S0896627314009131-main.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-04-22 22:45:57</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_791">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0896627314009131</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-04-22 22:46:06</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149849">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1932-6203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miller</foaf:surname>
+                        <foaf:givenname>R. L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yaesoubi</foaf:surname>
+                        <foaf:givenname>M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Turner</foaf:surname>
+                        <foaf:givenname>J. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mathalon</foaf:surname>
+                        <foaf:givenname>D. H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Preda</foaf:surname>
+                        <foaf:givenname>A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pearlson</foaf:surname>
+                        <foaf:givenname>G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adali</foaf:surname>
+                        <foaf:givenname>T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>V. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_499"/>
+        <link:link rdf:resource="#item_500"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Behavioral and social aspects of health</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Demography</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Fluid dynamics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>functional magnetic resonance imaging</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Neural networks</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Principal component analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>schizophrenia</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Social psychology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149849</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e0149849</bib:pages>
+        <dc:date>Mar 16, 2016</dc:date>
+        <dcterms:dateSubmitted>2016-06-07 18:35:40</dcterms:dateSubmitted>
+        <z:libraryCatalog>PLoS Journals</z:libraryCatalog>
+        <dcterms:abstract>Resting-state functional brain imaging studies of network connectivity have long assumed that functional connections are stationary on the timescale of a typical scan. Interest in moving beyond this simplifying assumption has emerged only recently. The great hope is that training the right lens on time-varying properties of whole-brain network connectivity will shed additional light on previously concealed brain activation patterns characteristic of serious neurological or psychiatric disorders. We present evidence that multiple explicitly dynamical properties of time-varying whole-brain network connectivity are strongly associated with schizophrenia, a complex mental illness whose symptomatic presentation can vary enormously across subjects. As with so much brain-imaging research, a central challenge for dynamic network connectivity lies in determining transformations of the data that both reduce its dimensionality and expose features that are strongly predictive of important population characteristics. Our paper introduces an elegant, simple method of reducing and organizing data around which a large constellation of mutually informative and intuitive dynamical analyses can be performed. This framework combines a discrete multidimensional data-driven representation of connectivity space with four core dynamism measures computed from large-scale properties of each subject’s trajectory, ie., properties not identifiable with any specific moment in time and therefore reasonable to employ in settings lacking inter-subject time-alignment, such as resting-state functional imaging studies. Our analysis exposes pronounced differences between schizophrenia patients (N sz  = 151) and healthy controls (N hc  = 163). Time-varying whole-brain network connectivity patterns are found to be markedly less dynamically active in schizophrenia patients, an effect that is even more pronounced in patients with high levels of hallucinatory behavior. To the best of our knowledge this is the first demonstration that high-level dynamic properties of whole-brain connectivity, generic enough to be commensurable under many decompositions of time-varying connectivity data, exhibit robust and systematic differences between schizophrenia patients and healthy controls.</dcterms:abstract>
+        <dc:title>Higher Dimensional Meta-State Analysis Reveals Reduced Resting fMRI Connectivity Dynamism in Schizophrenia Patients</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1932-6203">
+        <prism:volume>11</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>PLOS ONE</dc:title>
+        <dc:identifier>ISSN 1932-6203</dc:identifier>
+        <dcterms:alternative>PLOS ONE</dcterms:alternative>
+        <dc:identifier>DOI 10.1371/journal.pone.0149849</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_499">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0149849.PDF</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-06-07 18:35:40</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_500">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149849</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-06-07 18:35:45</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://onlinelibrary.wiley.com/doi/10.1002/hbm.22058/abstract">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1097-0193"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutchison</foaf:surname>
+                        <foaf:givenname>R. Matthew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Womelsdorf</foaf:surname>
+                        <foaf:givenname>Thilo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gati</foaf:surname>
+                        <foaf:givenname>Joseph S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Everling</foaf:surname>
+                        <foaf:givenname>Stefan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Menon</foaf:surname>
+                        <foaf:givenname>Ravi S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_957"/>
+        <link:link rdf:resource="#item_958"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dynamics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Fluctuations</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Functional connectivity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Functional MRI (fMRI)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>macaque</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>nonstationary</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Resting-state</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Spontaneous activity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/hbm.22058/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>2154-2177</bib:pages>
+        <dc:date>September 1, 2013</dc:date>
+        <dcterms:dateSubmitted>2016-08-05 20:55:09</dcterms:dateSubmitted>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Characterization of large-scale brain networks using blood-oxygenation-level-dependent functional magnetic resonance imaging is typically based on the assumption of network stationarity across the duration of scan. Recent studies in humans have questioned this assumption by showing that within-network functional connectivity fluctuates on the order of seconds to minutes. Time-varying profiles of resting-state networks (RSNs) may relate to spontaneously shifting, electrophysiological network states and are thus mechanistically of particular importance. However, because these studies acquired data from awake subjects, the fluctuating connectivity could reflect various forms of conscious brain processing such as passive mind wandering, active monitoring, memory formation, or changes in attention and arousal during image acquisition. Here, we characterize RSN dynamics of anesthetized macaques that control for these accounts, and compare them to awake human subjects. We find that functional connectivity among nodes comprising the “oculomotor (OCM) network” strongly fluctuated over time during awake as well as anaesthetized states. For time dependent analysis with short windows (&lt;60 s), periods of positive functional correlations alternated with prominent anticorrelations that were missed when assessed with longer time windows. Similarly, the analysis identified network nodes that transiently link to the OCM network and did not emerge in average RSN analysis. Furthermore, time-dependent analysis reliably revealed transient states of large-scale synchronization that spanned all seeds. The results illustrate that resting-state functional connectivity is not static and that RSNs can exhibit nonstationary, spontaneous relationships irrespective of conscious, cognitive processing. The findings imply that mechanistically important network information can be missed when using average functional connectivity as the single network measure. Hum Brain Mapp 34:2154–2177, 2013. © 2011 Wiley Periodicals, Inc.</dcterms:abstract>
+        <dc:title>Resting-state networks show dynamic functional connectivity in awake humans and anesthetized macaques</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1097-0193">
+        <prism:volume>34</prism:volume>
+        <prism:number>9</prism:number>
+        <dc:title>Human Brain Mapping</dc:title>
+        <dc:identifier>ISSN 1097-0193</dc:identifier>
+        <dcterms:alternative>Hum. Brain Mapp</dcterms:alternative>
+        <dc:identifier>DOI 10.1002/hbm.22058</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_957">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/store/10.1002/hbm.22058/asset/hbm22058.pdf?v=1&amp;t=iri8cv4m&amp;s=c569344d1fe55e979673b53e58c21b2160158a0a</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-08-05 20:55:09</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_958">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/hbm.22058/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-08-05 20:55:11</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1053811907010282">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1053-8119"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jafri</foaf:surname>
+                        <foaf:givenname>Madiha J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pearlson</foaf:surname>
+                        <foaf:givenname>Godfrey D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stevens</foaf:surname>
+                        <foaf:givenname>Michael</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_471"/>
+        <link:link rdf:resource="#item_470"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811907010282</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1666-1681</bib:pages>
+        <dc:date>February 15, 2008</dc:date>
+        <dcterms:dateSubmitted>2016-08-05 20:42:24</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Functional connectivity of the brain has been studied by analyzing correlation differences in time courses among seed voxels or regions with other voxels of the brain in healthy individuals as well as in patients with brain disorders. The spatial extent of strongly temporally coherent brain regions co-activated during rest has also been examined using independent component analysis (ICA). However, the weaker temporal relationships among ICA component time courses, which we operationally define as a measure of functional network connectivity (FNC), have not yet been studied. In this study, we propose an approach for evaluating FNC and apply it to functional magnetic resonance imaging (fMRI) data collected from persons with schizophrenia and healthy controls. We examined the connectivity and latency among ICA component time courses to test the hypothesis that patients with schizophrenia would show increased functional connectivity and increased lag among resting state networks compared to controls. Resting state fMRI data were collected and the inter-relationships among seven selected resting state networks (identified using group ICA) were evaluated by correlating each subject's ICA time courses with one another. Patients showed higher correlation than controls among most of the dominant resting state networks. Patients also had slightly more variability in functional connectivity than controls. We present a novel approach for quantifying functional connectivity among brain networks identified with spatial ICA. Significant differences between patient and control connectivity in different networks were revealed possibly reflecting deficiencies in cortical processing in patients.</dcterms:abstract>
+        <dc:title>A method for functional network connectivity among spatially independent resting-state components in schizophrenia</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1053-8119">
+        <prism:volume>39</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>NeuroImage</dc:title>
+        <dc:identifier>ISSN 1053-8119</dc:identifier>
+        <dcterms:alternative>NeuroImage</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.neuroimage.2007.11.001</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_471">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811907010282/pdfft?md5=15c4eb166b952dc109f489be06fdfe0f&amp;pid=1-s2.0-S1053811907010282-main.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-08-05 20:42:24</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_470">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811907010282</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-08-05 20:42:34</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S105381191300579X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Mapping the Connectome</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>80</prism:volume>
+                <dc:title>NeuroImage</dc:title>
+                <dc:identifier>ISSN 1053-8119</dc:identifier>
+                <dcterms:alternative>NeuroImage</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.neuroimage.2013.05.079</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutchison</foaf:surname>
+                        <foaf:givenname>R. Matthew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Womelsdorf</foaf:surname>
+                        <foaf:givenname>Thilo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenname>Elena A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bandettini</foaf:surname>
+                        <foaf:givenname>Peter A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Corbetta</foaf:surname>
+                        <foaf:givenname>Maurizio</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Della Penna</foaf:surname>
+                        <foaf:givenname>Stefania</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duyn</foaf:surname>
+                        <foaf:givenname>Jeff H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Glover</foaf:surname>
+                        <foaf:givenname>Gary H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gonzalez-Castillo</foaf:surname>
+                        <foaf:givenname>Javier</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Handwerker</foaf:surname>
+                        <foaf:givenname>Daniel A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keilholz</foaf:surname>
+                        <foaf:givenname>Shella</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kiviniemi</foaf:surname>
+                        <foaf:givenname>Vesa</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leopold</foaf:surname>
+                        <foaf:givenname>David A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Pasquale</foaf:surname>
+                        <foaf:givenname>Francesco</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sporns</foaf:surname>
+                        <foaf:givenname>Olaf</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Walter</foaf:surname>
+                        <foaf:givenname>Martin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenname>Catie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_488"/>
+        <link:link rdf:resource="#item_582"/>
+        <link:link rdf:resource="#item_489"/>
+        <link:link rdf:resource="#item_583"/>
+        <dc:subject>Dynamics</dc:subject>
+        <dc:subject>Fluctuations</dc:subject>
+        <dc:subject>Functional connectivity</dc:subject>
+        <dc:subject>Functional MRI (fMRI)</dc:subject>
+        <dc:subject>Resting state</dc:subject>
+        <dc:subject>Spontaneous activity</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S105381191300579X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>360-378</bib:pages>
+        <dc:date>October 15, 2013</dc:date>
+        <dcterms:dateSubmitted>2016-06-10 22:04:18</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>The brain must dynamically integrate, coordinate, and respond to internal and external stimuli across multiple time scales. Non-invasive measurements of brain activity with fMRI have greatly advanced our understanding of the large-scale functional organization supporting these fundamental features of brain function. Conclusions from previous resting-state fMRI investigations were based upon static descriptions of functional connectivity (FC), and only recently studies have begun to capitalize on the wealth of information contained within the temporal features of spontaneous BOLD FC. Emerging evidence suggests that dynamic FC metrics may index changes in macroscopic neural activity patterns underlying critical aspects of cognition and behavior, though limitations with regard to analysis and interpretation remain. Here, we review recent findings, methodological considerations, neural and behavioral correlates, and future directions in the emerging field of dynamic FC investigations.</dcterms:abstract>
+        <dc:title>Dynamic functional connectivity: Promise, issues, and interpretations</dc:title>
+        <z:shortTitle>Dynamic functional connectivity</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_488">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S105381191300579X/pdfft?md5=7a4d4a9bf2742d10d537365ac993cc2f&amp;pid=1-s2.0-S105381191300579X-main.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-06-10 22:04:18</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_582">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S105381191300579X/pdfft?md5=7a4d4a9bf2742d10d537365ac993cc2f&amp;pid=1-s2.0-S105381191300579X-main.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-02-04 23:56:44</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_489">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S105381191300579X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-06-10 22:04:20</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_583">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S105381191300579X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-02-04 23:56:46</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_172">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1937-3333"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>V. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adali</foaf:surname>
+                        <foaf:givenname>T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_496"/>
+        <link:link rdf:resource="#item_495"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Algorithms</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>biomedical MRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>brain</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>brain connectivity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Brain Diseases</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Brain function</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>brain models</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>complex-valued</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Correlation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Default Mode Network</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>diseased brain</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>diseases</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>fMRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>functional brain networks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Functional connectivity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Higher order statistics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Humans</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>independent component analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>independent component analysis (ICA)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>intrinsic networks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Magnetic resonance imaging</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>medical computing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Models, Neurological</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Models, Statistical</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>multisubject independent component analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>neural nets</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>neurodiagnostic discovery</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>neurophysiology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>phase</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>schizophrenia</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <bib:pages>60-73</bib:pages>
+        <dc:date>2012</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dcterms:abstract>Since the discovery of functional connectivity in fMRI data (i.e., temporal correlations between spatially distinct regions of the brain) there has been a considerable amount of work in this field. One important focus has been on the analysis of brain connectivity using the concept of networks instead of regions. Approximately ten years ago, two important research areas grew out of this concept. First, a network proposed to be “a default mode of brain function” since dubbed the default mode network was proposed by Raichle. Secondly, multisubject or group independent component analysis (ICA) provided a data-driven approach to study properties of brain networks, including the default mode network. In this paper, we provide a focused review of how ICA has contributed to the study of intrinsic networks. We discuss some methodological considerations for group ICA and highlight multiple analytic approaches for studying brain networks. We also show examples of some of the differences observed in the default mode and resting networks in the diseased brain. In summary, we are in exciting times and still just beginning to reap the benefits of the richness of functional brain networks as well as available analytic approaches.</dcterms:abstract>
+        <dc:title>Multisubject Independent Component Analysis of fMRI: A Decade of Intrinsic Networks, Default Mode, and Neurodiagnostic Discovery</dc:title>
+        <z:shortTitle>Multisubject Independent Component Analysis of fMRI</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1937-3333">
+        <prism:volume>5</prism:volume>
+        <dc:title>IEEE Reviews in Biomedical Engineering</dc:title>
+        <dc:identifier>ISSN 1937-3333</dc:identifier>
+        <dc:identifier>DOI 10.1109/RBME.2012.2211076</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_496">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6268324&amp;tag=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-06-09 18:17:14</dcterms:dateSubmitted>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_495">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ieeexplore.ieee.org/ielx5/4664312/6375843/06268324.pdf?tp=&amp;arnumber=6268324&amp;isnumber=6375843</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-06-09 18:17:11</dcterms:dateSubmitted>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1053811913009117">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>84</prism:volume>
+                <dc:title>NeuroImage</dc:title>
+                <dc:identifier>ISSN 1053-8119</dc:identifier>
+                <dcterms:alternative>NeuroImage</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.neuroimage.2013.08.048</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Power</foaf:surname>
+                        <foaf:givenname>Jonathan D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitra</foaf:surname>
+                        <foaf:givenname>Anish</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laumann</foaf:surname>
+                        <foaf:givenname>Timothy O.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Snyder</foaf:surname>
+                        <foaf:givenname>Abraham Z.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schlaggar</foaf:surname>
+                        <foaf:givenname>Bradley L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petersen</foaf:surname>
+                        <foaf:givenname>Steven E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_511"/>
+        <link:link rdf:resource="#item_512"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Artifact</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Functional connectivity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Motion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Movement</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>MRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Resting state</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811913009117</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>320-341</bib:pages>
+        <dc:date>January 1, 2014</dc:date>
+        <dcterms:dateSubmitted>2016-05-20 19:42:29</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Head motion systematically alters correlations in resting state functional connectivity fMRI (RSFC). In this report we examine impact of motion on signal intensity and RSFC correlations. We find that motion-induced signal changes (1) are often complex and variable waveforms, (2) are often shared across nearly all brain voxels, and (3) often persist more than 10 s after motion ceases. These signal changes, both during and after motion, increase observed RSFC correlations in a distance-dependent manner. Motion-related signal changes are not removed by a variety of motion-based regressors, but are effectively reduced by global signal regression. We link several measures of data quality to motion, changes in signal intensity, and changes in RSFC correlations. We demonstrate that improvements in data quality measures during processing may represent cosmetic improvements rather than true correction of the data. We demonstrate a within-subject, censoring-based artifact removal strategy based on volume censoring that reduces group differences due to motion to chance levels. We note conditions under which group-level regressions do and do not correct motion-related effects.</dcterms:abstract>
+        <dc:title>Methods to detect, characterize, and remove motion artifact in resting state fMRI</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_511">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811913009117/pdfft?md5=17fff16b2e8a5dfdedfa31aafc690fad&amp;pid=1-s2.0-S1053811913009117-main.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-05-20 19:42:29</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_512">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811913009117</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-05-20 19:42:50</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1053811912011044">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>69</prism:volume>
+                <dc:title>NeuroImage</dc:title>
+                <dc:identifier>ISSN 1053-8119</dc:identifier>
+                <dcterms:alternative>NeuroImage</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.neuroimage.2012.11.008</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenname>Yuhui</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fan</foaf:surname>
+                        <foaf:givenname>Yong</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1832"/>
+        <link:link rdf:resource="#item_519"/>
+        <link:link rdf:resource="#item_520"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Enhanced independence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>fMRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Group information</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>independent component analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Multi-objective optimization</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Subject specific ICs reconstruction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811912011044</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>157-197</bib:pages>
+        <dc:date>April 1, 2013</dc:date>
+        <dcterms:dateSubmitted>2016-05-18 18:04:34</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Group independent component analysis (ICA) has been widely applied to studies of multi-subject fMRI data for computing subject specific independent components with correspondence across subjects. However, the independence of subject specific independent components (ICs) derived from group ICA has not been explicitly optimized in existing group ICA methods. In order to preserve independence of ICs at the subject level and simultaneously establish correspondence of ICs across subjects, we present a new framework for obtaining subject specific ICs, which we coined group-information guided ICA (GIG-ICA). In this framework, group information captured by standard ICA on the group level is exploited as guidance to compute individual subject specific ICs using a multi-objective optimization strategy. Specifically, we propose a framework with two stages: at first, group ICs (GICs) are obtained using standard group ICA tools, and then the GICs are used as references in a new one-unit ICA with spatial reference (ICA-R) using a multi-objective optimization solver. Comparison experiments with back-reconstruction (GICA1 and GICA3) and dual regression on simulated and real fMRI data have demonstrated that GIG-ICA is able to obtain subject specific ICs with stronger independence and better spatial correspondence across different subjects in addition to higher spatial and temporal accuracy.</dcterms:abstract>
+        <dc:title>Group information guided ICA for fMRI data analysis</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1832">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S1053811912011044/1-s2.0-S1053811912011044-main.pdf?_tid=f777381c-b2a5-11e7-ae46-00000aab0f6c&amp;acdnat=1508181335_ba164829fce864e96b4cc90f7c335c57</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-10-16 19:12:44</dcterms:dateSubmitted>
+        <dc:title>1-s2.0-S1053811912011044-main.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_519">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811912011044/pdfft?md5=424616d9bc0fa8617689808f50312d13&amp;pid=1-s2.0-S1053811912011044-main.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-05-18 18:04:34</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_520">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811912011044</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-05-18 18:04:36</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journal.frontiersin.org/article/10.3389/fnsys.2011.00002/abstract">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1662-5137"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenname>E. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Erhardt</foaf:surname>
+                        <foaf:givenname>Erik B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Damaraju</foaf:surname>
+                        <foaf:givenname>Eswar</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gruner</foaf:surname>
+                        <foaf:givenname>William</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Segall</foaf:surname>
+                        <foaf:givenname>Judith M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silva</foaf:surname>
+                        <foaf:givenname>Rogers F.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Havlicek</foaf:surname>
+                        <foaf:givenname>Martin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rachakonda</foaf:surname>
+                        <foaf:givenname>Srinivas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fries</foaf:surname>
+                        <foaf:givenname>Jill</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalyanam</foaf:surname>
+                        <foaf:givenname>Ravi</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Michael</foaf:surname>
+                        <foaf:givenname>Andrew M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Caprihan</foaf:surname>
+                        <foaf:givenname>Arvind</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Turner</foaf:surname>
+                        <foaf:givenname>Jessica A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eichele</foaf:surname>
+                        <foaf:givenname>Tom</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adelsheim</foaf:surname>
+                        <foaf:givenname>Steven</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bryan</foaf:surname>
+                        <foaf:givenname>Angela D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bustillo</foaf:surname>
+                        <foaf:givenname>Juan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clark</foaf:surname>
+                        <foaf:givenname>Vincent P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feldstein Ewing</foaf:surname>
+                        <foaf:givenname>Sarah W.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Filbey</foaf:surname>
+                        <foaf:givenname>Francesca</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ford</foaf:surname>
+                        <foaf:givenname>Corey C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutchison</foaf:surname>
+                        <foaf:givenname>Kent</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jung</foaf:surname>
+                        <foaf:givenname>Rex E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kiehl</foaf:surname>
+                        <foaf:givenname>Kent A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kodituwakku</foaf:surname>
+                        <foaf:givenname>Piyadasa</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Komesu</foaf:surname>
+                        <foaf:givenname>Yuko M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mayer</foaf:surname>
+                        <foaf:givenname>Andrew R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pearlson</foaf:surname>
+                        <foaf:givenname>Godfrey D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Phillips</foaf:surname>
+                        <foaf:givenname>John P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sadek</foaf:surname>
+                        <foaf:givenname>Joseph R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stevens</foaf:surname>
+                        <foaf:givenname>Michael</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Teuscher</foaf:surname>
+                        <foaf:givenname>Ursina</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thoma</foaf:surname>
+                        <foaf:givenname>Robert J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_703"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journal.frontiersin.org/article/10.3389/fnsys.2011.00002/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2011</dc:date>
+        <dcterms:dateSubmitted>2016-01-22 18:50:46</dcterms:dateSubmitted>
+        <z:libraryCatalog>CrossRef</z:libraryCatalog>
+        <dc:title>A Baseline for the Multivariate Comparison of Resting-State Networks</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1662-5137">
+        <prism:volume>5</prism:volume>
+        <dc:title>Frontiers in Systems Neuroscience</dc:title>
+        <dc:identifier>ISSN 1662-5137</dc:identifier>
+        <dc:identifier>DOI 10.3389/fnsys.2011.00002</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_703">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Allen EA (2011) A basline for the multivariate comparison of resting state networks.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.cercor.oxfordjournals.org/cgi/doi/10.1093/cercor/bhs352">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1047-3211,%201460-2199"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenname>E. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Damaraju</foaf:surname>
+                        <foaf:givenname>E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plis</foaf:surname>
+                        <foaf:givenname>S. M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Erhardt</foaf:surname>
+                        <foaf:givenname>E. B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eichele</foaf:surname>
+                        <foaf:givenname>T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>V. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_702"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cercor.oxfordjournals.org/cgi/doi/10.1093/cercor/bhs352</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>663-676</bib:pages>
+        <dc:date>11-2012</dc:date>
+        <dcterms:dateSubmitted>2016-01-22 18:50:50</dcterms:dateSubmitted>
+        <z:libraryCatalog>CrossRef</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Tracking Whole-Brain Connectivity Dynamics in the Resting State</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1047-3211,%201460-2199">
+        <prism:volume>24</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Cerebral Cortex</dc:title>
+        <dc:identifier>ISSN 1047-3211, 1460-2199</dc:identifier>
+        <dc:identifier>DOI 10.1093/cercor/bhs352</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_702">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Allen EA (2012) Tracking whole-brain connectivity dynamics in resting state.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S2213158214000953">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2213-1582"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Damaraju</foaf:surname>
+                        <foaf:givenname>E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenname>E. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Belger</foaf:surname>
+                        <foaf:givenname>A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ford</foaf:surname>
+                        <foaf:givenname>J. M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McEwen</foaf:surname>
+                        <foaf:givenname>S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mathalon</foaf:surname>
+                        <foaf:givenname>D. H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mueller</foaf:surname>
+                        <foaf:givenname>B. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pearlson</foaf:surname>
+                        <foaf:givenname>G. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Potkin</foaf:surname>
+                        <foaf:givenname>S. G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Preda</foaf:surname>
+                        <foaf:givenname>A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Turner</foaf:surname>
+                        <foaf:givenname>J. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vaidya</foaf:surname>
+                        <foaf:givenname>J. G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Erp</foaf:surname>
+                        <foaf:givenname>T. G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>V. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_580"/>
+        <link:link rdf:resource="#item_581"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S2213158214000953</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>298-308</bib:pages>
+        <dc:date>2014</dc:date>
+        <dcterms:dateSubmitted>2016-02-04 23:58:50</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Schizophrenia is a psychotic disorder characterized by functional dysconnectivity or abnormal integration between distant brain regions. Recent functional imaging studies have implicated large-scale thalamo-cortical connectivity as being disrupted in patients. However, observed connectivity differences in schizophrenia have been inconsistent between studies, with reports of hyperconnectivity and hypoconnectivity between the same brain regions. Using resting state eyes-closed functional imaging and independent component analysis on a multi-site data that included 151 schizophrenia patients and 163 age- and gender matched healthy controls, we decomposed the functional brain data into 100 components and identified 47 as functionally relevant intrinsic connectivity networks. We subsequently evaluated group differences in functional network connectivity, both in a static sense, computed as the pairwise Pearson correlations between the full network time courses (5.4 minutes in length), and a dynamic sense, computed using sliding windows (44 s in length) and k-means clustering to characterize five discrete functional connectivity states. Static connectivity analysis revealed that compared to healthy controls, patients show significantly stronger connectivity, i.e., hyperconnectivity, between the thalamus and sensory networks (auditory, motor and visual), as well as reduced connectivity (hypoconnectivity) between sensory networks from all modalities. Dynamic analysis suggests that (1), on average, schizophrenia patients spend much less time than healthy controls in states typified by strong, large-scale connectivity, and (2), that abnormal connectivity patterns are more pronounced during these connectivity states. In particular, states exhibiting cortical–subcortical antagonism (anti-correlations) and strong positive connectivity between sensory networks are those that show the group differences of thalamic hyperconnectivity and sensory hypoconnectivity. Group differences are weak or absent during other connectivity states. Dynamic analysis also revealed hypoconnectivity between the putamen and sensory networks during the same states of thalamic hyperconnectivity; notably, this finding cannot be observed in the static connectivity analysis. Finally, in post-hoc analyses we observed that the relationships between sub-cortical low frequency power and connectivity with sensory networks is altered in patients, suggesting different functional interactions between sub-cortical nuclei and sensorimotor cortex during specific connectivity states. While important differences between patients with schizophrenia and healthy controls have been identified, one should interpret the results with caution given the history of medication in patients. Taken together, our results support and expand current knowledge regarding dysconnectivity in schizophrenia, and strongly advocate the use of dynamic analyses to better account for and understand functional connectivity differences.</dcterms:abstract>
+        <dc:title>Dynamic functional connectivity analysis reveals transient states of dysconnectivity in schizophrenia</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2213-1582">
+        <prism:volume>5</prism:volume>
+        <dc:title>NeuroImage: Clinical</dc:title>
+        <dc:identifier>ISSN 2213-1582</dc:identifier>
+        <dcterms:alternative>NeuroImage: Clinical</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.nicl.2014.07.003</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_580">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S2213158214000953/pdfft?md5=ca7004ad3efa6c739f6229c1c9f3e04f&amp;pid=1-s2.0-S2213158214000953-main.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-02-04 23:58:50</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_581">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S2213158214000953</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-02-04 23:58:52</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1053811916002433">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Individual Subject Prediction</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>145</prism:volume>
+                <dc:title>NeuroImage</dc:title>
+                <dc:identifier>ISSN 1053-8119</dc:identifier>
+                <dcterms:alternative>NeuroImage</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.neuroimage.2016.03.038</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vergara</foaf:surname>
+                        <foaf:givenname>Victor M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mayer</foaf:surname>
+                        <foaf:givenname>Andrew R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Damaraju</foaf:surname>
+                        <foaf:givenname>Eswar</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutchison</foaf:surname>
+                        <foaf:givenname>Kent</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_982"/>
+        <link:link rdf:resource="#item_983"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811916002433</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>365-376</bib:pages>
+        <dc:date>January 15, 2017</dc:date>
+        <dcterms:dateSubmitted>2017-08-08 23:59:03</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Resting state functional network connectivity (rsFNC) derived from functional magnetic resonance (fMRI) imaging is emerging as a possible biomarker to identify several brain disorders. Recently it has been pointed out that methods used to preprocess head motion variance might not fully remove all unwanted effects in the data. Proposed processing pipelines locate the treatment of head motion effects either close to the beginning or as one of the final steps. In this work, we assess several preprocessing pipelines applied in group independent component analysis (gICA) methods to study the rsFNC of the brain. The evaluation method utilizes patient/control classification performance based on linear support vector machines and leave-one-out cross validation. In addition, we explored group tests and correlation with severity measures in the patient population. We also tested the effect of removing high frequencies via filtering. Two real data cohorts were used: one consisting of 48 mTBI and one composed of 21 smokers, both with their corresponding matched controls. A simulation procedure was designed to test the classification power of each pipeline. Results show that data preprocessing can change the classification performance. In real data, regressing motion variance before gICA produced clearer group differences and stronger correlation with nicotine dependence.</dcterms:abstract>
+        <dc:title>The effect of preprocessing pipelines in subject classification and detection of abnormal resting state functional network connectivity using group ICA</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_982">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ac.els-cdn.com/S1053811916002433/1-s2.0-S1053811916002433-main.pdf?_tid=8e232ace-7c95-11e7-b444-00000aab0f26&amp;acdnat=1502236923_ead8a5971850069f7905cfe6dbc7fcf0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-08-08 23:59:09</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_983">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811916002433</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-08-08 23:59:06</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://onlinelibrary.wiley.com/doi/10.1002/hbm.1024/full">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Human brain mapping</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>V. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adali</foaf:surname>
+                        <foaf:givenname>T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pearlson</foaf:surname>
+                        <foaf:givenname>G. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pekar</foaf:surname>
+                        <foaf:givenname>J. J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1427"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/hbm.1024/full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>43–53</bib:pages>
+        <dc:date>2001</dc:date>
+        <dcterms:dateSubmitted>2017-09-12 01:26:18</dcterms:dateSubmitted>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Spatial and temporal independent component analysis of functional MRI data containing a pair of task-related waveforms</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1427">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Calhoun_et_al-2001-Human_Brain_Mapping.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://onlinelibrary.wiley.com/doi/10.1002/hbm.1048/abstract">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <prism:number>3</prism:number>
+                <dc:title>Human Brain Mapping</dc:title>
+                <dc:identifier>ISSN 1097-0193</dc:identifier>
+                <dcterms:alternative>Hum. Brain Mapp.</dcterms:alternative>
+                <dc:identifier>DOI 10.1002/hbm.1048</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>V. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adali</foaf:surname>
+                        <foaf:givenname>T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pearlson</foaf:surname>
+                        <foaf:givenname>G. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pekar</foaf:surname>
+                        <foaf:givenname>J.j.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_586"/>
+        <link:link rdf:resource="#item_1431"/>
+        <link:link rdf:resource="#item_587"/>
+        <link:link rdf:resource="#item_1430"/>
+        <dc:subject>brain</dc:subject>
+        <dc:subject>fMRI</dc:subject>
+        <dc:subject>functional</dc:subject>
+        <dc:subject>group inference</dc:subject>
+        <dc:subject>ICA</dc:subject>
+        <dc:subject>independent component analysis</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/hbm.1048/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>140-151</bib:pages>
+        <dc:date>November 1, 2001</dc:date>
+        <dcterms:dateSubmitted>2017-09-12 01:26:51</dcterms:dateSubmitted>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Independent component analysis (ICA) is a promising analysis method that is being increasingly applied to fMRI data. A principal advantage of this approach is its applicability to cognitive paradigms for which detailed models of brain activity are not available. Independent component analysis has been successfully utilized to analyze single-subject fMRI data sets, and an extension of this work would be to provide for group inferences. However, unlike univariate methods (e.g., regression analysis, Kolmogorov–Smirnov statistics), ICA does not naturally generalize to a method suitable for drawing inferences about groups of subjects. We introduce a novel approach for drawing group inferences using ICA of fMRI data, and present its application to a simple visual paradigm that alternately stimulates the left or right visual field. Our group ICA analysis revealed task-related components in left and right visual cortex, a transiently task-related component in bilateral occipital/parietal cortex, and a non-task-related component in bilateral visual association cortex. We address issues involved in the use of ICA as an fMRI analysis method such as: (1) How many components should be calculated? (2) How are these components to be combined across subjects? (3) How should the final results be thresholded and/or presented? We show that the methodology we present provides answers to these questions and lay out a process for making group inferences from fMRI data using independent component analysis. Hum. Brain Mapping 14:140–151, 2001. © 2001 Wiley-Liss, Inc.</dcterms:abstract>
+        <dc:title>A method for making group inferences from functional MRI data using independent component analysis</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_586">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/store/10.1002/hbm.1048/asset/1048_ftp.pdf?v=1&amp;t=ik8x78qf&amp;s=dd864d827354725b68ac8294d689b1a1e2ed591c</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-02-04 23:54:56</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1431">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/hbm.1048/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-09-12 01:26:56</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_587">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/hbm.1048/full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-02-04 23:55:00</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1430">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/hbm.1048/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-09-12 01:26:53</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://online.liebertpub.com/doi/10.1089/brain.2017.0543">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2158-0014,%202158-0022"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keilholz</foaf:surname>
+                        <foaf:givenname>Shella Dawn</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Caballero-Gaudes</foaf:surname>
+                        <foaf:givenname>Cesar</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bandettini</foaf:surname>
+                        <foaf:givenname>Peter</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deco</foaf:surname>
+                        <foaf:givenname>Gustavo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1475"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://online.liebertpub.com/doi/10.1089/brain.2017.0543</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-09-06</dc:date>
+        <dcterms:dateSubmitted>2017-09-13 17:01:26</dcterms:dateSubmitted>
+        <z:libraryCatalog>CrossRef</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Time-resolved resting state fMRI analysis: current status, challenges, and new directions</dc:title>
+        <z:shortTitle>Time-resolved resting state fMRI analysis</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2158-0014,%202158-0022">
+        <dc:title>Brain Connectivity</dc:title>
+        <dc:identifier>ISSN 2158-0014, 2158-0022</dc:identifier>
+        <dc:identifier>DOI 10.1089/brain.2017.0543</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_1475">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://online.liebertpub.com/doi/pdf/10.1089/brain.2017.0543</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-09-13 17:01:15</dcterms:dateSubmitted>
+        <dc:title>brain.2017.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://onlinelibrary.wiley.com/doi/10.1002/hbm.21170/abstract">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>32</prism:volume>
+                <prism:number>12</prism:number>
+                <dc:title>Human Brain Mapping</dc:title>
+                <dc:identifier>ISSN 1097-0193</dc:identifier>
+                <dcterms:alternative>Hum. Brain Mapp.</dcterms:alternative>
+                <dc:identifier>DOI 10.1002/hbm.21170</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Erhardt</foaf:surname>
+                        <foaf:givenname>Erik Barry</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rachakonda</foaf:surname>
+                        <foaf:givenname>Srinivas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bedrick</foaf:surname>
+                        <foaf:givenname>Edward J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenname>Elena A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adali</foaf:surname>
+                        <foaf:givenname>Tülay</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1831"/>
+        <link:link rdf:resource="#item_1830"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>back-reconstruction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>brain</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>dual regression</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>fMRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>functional</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>group ICA</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ICA</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>independent component analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>spatio-temporal regression</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/hbm.21170/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>2075-2095</bib:pages>
+        <dc:date>December 1, 2011</dc:date>
+        <dcterms:dateSubmitted>2017-10-16 18:25:34</dcterms:dateSubmitted>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Spatial independent component analysis (ICA) applied to functional magnetic resonance imaging (fMRI) data identifies functionally connected networks by estimating spatially independent patterns from their linearly mixed fMRI signals. Several multi-subject ICA approaches estimating subject-specific time courses (TCs) and spatial maps (SMs) have been developed, however, there has not yet been a full comparison of the implications of their use. Here, we provide extensive comparisons of four multi-subject ICA approaches in combination with data reduction methods for simulated and fMRI task data. For multi-subject ICA, the data first undergo reduction at the subject and group levels using principal component analysis (PCA). Comparisons of subject-specific, spatial concatenation, and group data mean subject-level reduction strategies using PCA and probabilistic PCA (PPCA) show that computationally intensive PPCA is equivalent to PCA, and that subject-specific and group data mean subject-level PCA are preferred because of well-estimated TCs and SMs. Second, aggregate independent components are estimated using either noise-free ICA or probabilistic ICA (PICA). Third, subject-specific SMs and TCs are estimated using back-reconstruction. We compare several direct group ICA (GICA) back-reconstruction approaches (GICA1-GICA3) and an indirect back-reconstruction approach, spatio-temporal regression (STR, or dual regression). Results show the earlier group ICA (GICA1) approximates STR, however STR has contradictory assumptions and may show mixed-component artifacts in estimated SMs. Our evidence-based recommendation is to use GICA3, introduced here, with subject-specific PCA and noise-free ICA, providing the most robust and accurate estimated SMs and TCs in addition to offering an intuitive interpretation. Hum Brain Mapp, 2011. © 2010 Wiley Periodicals, Inc.</dcterms:abstract>
+        <dc:title>Comparison of multi-subject ICA methods for analysis of fMRI data</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1831">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/hbm.21170/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-10-16 18:25:49</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1830">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/10.1002/hbm.21170/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-10-16 18:25:37</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.springer.com/article/10.1007/s10548-017-0546-2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0896-0267,%201573-6792"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenname>E. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Damaraju</foaf:surname>
+                        <foaf:givenname>E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eichele</foaf:surname>
+                        <foaf:givenname>T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenname>L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>V. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1836"/>
+        <link:link rdf:resource="#item_1837"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/article/10.1007/s10548-017-0546-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-16</bib:pages>
+        <dc:date>2017/02/22</dc:date>
+        <dcterms:dateSubmitted>2017-10-20 21:41:48</dcterms:dateSubmitted>
+        <z:libraryCatalog>link.springer.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>The human brain operates by dynamically modulating different neural populations to enable goal directed behavior. The synchrony or lack thereof between different brain regions is thought to correspond to observed functional connectivity dynamics in resting state brain imaging data. In a large sample of healthy human adult subjects and utilizing a sliding windowed correlation method on functional imaging data, earlier we demonstrated the presence of seven distinct functional connectivity states/patterns between different brain networks that reliably occur across time and subjects. Whether these connectivity states correspond to meaningful electrophysiological signatures was not clear. In this study, using a dataset with concurrent EEG and resting state functional imaging data acquired during eyes open and eyes closed states, we demonstrate the replicability of previous findings in an independent sample, and identify EEG spectral signatures associated with these functional network connectivity changes. Eyes open and eyes closed conditions show common and different connectivity patterns that are associated with distinct EEG spectral signatures. Certain connectivity states are more prevalent in the eyes open case and some occur only in eyes closed state. Both conditions exhibit a state of increased thalamocortical anticorrelation associated with reduced EEG spectral alpha power and increased delta and theta power possibly reflecting drowsiness. This state occurs more frequently in the eyes closed state. In summary, we find a link between dynamic connectivity in fMRI data and concurrently collected EEG data, including a large effect of vigilance on functional connectivity. As demonstrated with EEG and fMRI, the stationarity of connectivity cannot be assumed, even for relatively short periods.</dcterms:abstract>
+        <dc:title>EEG Signatures of Dynamic Functional Network Connectivity States</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0896-0267,%201573-6792">
+        <dc:title>Brain Topography</dc:title>
+        <dc:identifier>ISSN 0896-0267, 1573-6792</dc:identifier>
+        <dcterms:alternative>Brain Topogr</dcterms:alternative>
+        <dc:identifier>DOI 10.1007/s10548-017-0546-2</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_1836">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs10548-017-0546-2.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-10-20 21:41:49</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1837">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/article/10.1007/s10548-017-0546-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-10-20 21:41:51</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://linkinghub.elsevier.com/retrieve/pii/S1053811917307681">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:10538119"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abrol</foaf:surname>
+                        <foaf:givenname>Anees</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Damaraju</foaf:surname>
+                        <foaf:givenname>Eswar</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miller</foaf:surname>
+                        <foaf:givenname>Robyn L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stephen</foaf:surname>
+                        <foaf:givenname>Julia M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Claus</foaf:surname>
+                        <foaf:givenname>Eric D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mayer</foaf:surname>
+                        <foaf:givenname>Andrew R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1884"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://linkinghub.elsevier.com/retrieve/pii/S1053811917307681</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>9/2017</dc:date>
+        <dcterms:dateSubmitted>2017-10-26 23:56:05</dcterms:dateSubmitted>
+        <z:libraryCatalog>CrossRef</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Replicability of time-varying connectivity patterns in large resting state fMRI samples</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:10538119">
+        <dc:title>NeuroImage</dc:title>
+        <dc:identifier>ISSN 10538119</dc:identifier>
+        <dc:identifier>DOI 10.1016/j.neuroimage.2017.09.020</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_1884">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S1053811917307681/1-s2.0-S1053811917307681-main.pdf?_tid=2ee97c8c-baa9-11e7-aa73-00000aab0f6c&amp;acdnat=1509062326_7e70c8fbb52f40542e55b1712991db86</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-10-26 23:55:54</dcterms:dateSubmitted>
+        <dc:title>1-s2.0-S1053811917307681-main.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S2451902216000598">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2451-9022"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sui</foaf:surname>
+                        <foaf:givenname>Jing</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2005"/>
+        <link:link rdf:resource="#item_2004"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Brain function</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Connectivity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Data fusion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Independent component analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Psychosis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Schizophrenia</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S2451902216000598</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>230-244</bib:pages>
+        <dc:date>May 1, 2016</dc:date>
+        <dcterms:dateSubmitted>2018-01-12 20:37:27</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>It is becoming increasingly clear that combining multimodal brain imaging data provides more information for individual subjects by exploiting the rich multimodal information that exists. However, the number of studies that do true multimodal fusion (i.e., capitalizing on joint information among modalities) is still remarkably small given the known benefits. In part, this is because multimodal studies require broader expertise in collecting, analyzing, and interpreting the results than do unimodal studies. In this article, we start by introducing the basic reasons why multimodal data fusion is important and what it can do and, importantly, how it can help us avoid wrong conclusions and help compensate for imperfect brain imaging studies. We also discuss the challenges that need to be confronted for such approaches to be more widely applied by the community. We then provide a review of the diverse studies that have used multimodal data fusion (primarily focused on psychosis) as well as provide an introduction to some of the existing analytic approaches. Finally, we discuss some up-and-coming approaches to multimodal fusion including deep learning and multimodal classification that show considerable promise. Our conclusion is that multimodal data fusion is rapidly growing, but it is still underutilized. The complexity of the human brain coupled with the incomplete measurement provided by existing imaging technology makes multimodal fusion essential to mitigate misdirection and hopefully provide a key to finding the missing link(s) in complex mental illness.</dcterms:abstract>
+        <dc:title>Multimodal Fusion of Brain Imaging Data: A Key to Finding the Missing Link(s) in Complex Mental Illness</dc:title>
+        <z:shortTitle>Multimodal Fusion of Brain Imaging Data</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2451-9022">
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Brain Connectivity in Psychopathology</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>1</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</dc:title>
+        <dc:identifier>ISSN 2451-9022</dc:identifier>
+        <dcterms:alternative>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.bpsc.2015.12.005</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2005">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S2451902216000598/1-s2.0-S2451902216000598-main.pdf?_tid=666f3fea-f7d8-11e7-b151-00000aab0f6b&amp;acdnat=1515789627_3f8fb930e362cfb68e1fa2881eff0093</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-12 20:37:32</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2004">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S2451902216000598</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-12 20:37:30</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23086">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>37</prism:volume>
+                <prism:number>3</prism:number>
+                <dc:title>Human Brain Mapping</dc:title>
+                <dc:identifier>ISSN 1097-0193</dc:identifier>
+                <dc:identifier>DOI 10.1002/hbm.23086</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenname>Yuhui</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenname>Elena A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>He</foaf:surname>
+                        <foaf:givenname>Hao</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sui</foaf:surname>
+                        <foaf:givenname>Jing</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenname>Lei</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2459"/>
+        <link:link rdf:resource="#item_2458"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>artifacts removal</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>brain functional networks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>group ICA</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>group information guided ICA</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>independent component analysis (ICA)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23086</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>© 2015 Wiley Periodicals, Inc.</dc:rights>
+        <bib:pages>1005-1025</bib:pages>
+        <dc:date>2015</dc:date>
+        <dcterms:dateSubmitted>2018-05-30 00:03:52</dcterms:dateSubmitted>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Independent component analysis (ICA) has been widely applied to identify intrinsic brain networks from fMRI data. Group ICA computes group-level components from all data and subsequently estimates individual-level components to recapture intersubject variability. However, the best approach to handle artifacts, which may vary widely among subjects, is not yet clear. In this work, we study and compare two ICA approaches for artifacts removal. One approach, recommended in recent work by the Human Connectome Project, first performs ICA on individual subject data to remove artifacts, and then applies a group ICA on the cleaned data from all subjects. We refer to this approach as Individual ICA based artifacts Removal Plus Group ICA (IRPG). A second proposed approach, called Group Information Guided ICA (GIG-ICA), performs ICA on group data, then removes the group-level artifact components, and finally performs subject-specific ICAs using the group-level non-artifact components as spatial references. We used simulations to evaluate the two approaches with respect to the effects of data quality, data quantity, variable number of sources among subjects, and spatially unique artifacts. Resting-state test–retest datasets were also employed to investigate the reliability of functional networks. Results from simulations demonstrate GIG-ICA has greater performance compared with IRPG, even in the case when single-subject artifacts removal is perfect and when individual subjects have spatially unique artifacts. Experiments using test–retest data suggest that GIG-ICA provides more reliable functional networks. Based on high estimation accuracy, ease of implementation, and high reliability of functional networks, we find GIG-ICA to be a promising approach. Hum Brain Mapp 37:1005–1025, 2016. © 2015 Wiley Periodicals, Inc.</dcterms:abstract>
+        <dc:title>Artifact removal in the context of group ICA: A comparison of single-subject and group approaches</dc:title>
+        <z:shortTitle>Artifact removal in the context of group ICA</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2459">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.23086</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-05-30 00:03:58</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2458">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23086</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-05-30 00:03:57</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1053811908012032">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Mathematics in Brain Imaging</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>45</prism:volume>
+                <prism:number>1, Supplement 1</prism:number>
+                <dc:title>NeuroImage</dc:title>
+                <dc:identifier>ISSN 1053-8119</dc:identifier>
+                <dcterms:alternative>NeuroImage</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.neuroimage.2008.10.057</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>Jingyu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adalı</foaf:surname>
+                        <foaf:givenname>Tülay</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2633"/>
+        <link:link rdf:resource="#item_2632"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ERP</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>fMRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Genetics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Independent component analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>SNP</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811908012032</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>S163-S172</bib:pages>
+        <dc:date>March 1, 2009</dc:date>
+        <dcterms:dateSubmitted>2018-07-05 19:55:33</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Independent component analysis (ICA) has become an increasingly utilized approach for analyzing brain imaging data. In contrast to the widely used general linear model (GLM) that requires the user to parameterize the data (e.g. the brain’s response to stimuli), ICA, by relying upon a general assumption of independence, allows the user to be agnostic regarding the exact form of the response. In addition, ICA is intrinsically a multivariate approach, and hence each component provides a grouping of brain activity into regions that share the same response pattern thus providing a natural measure of functional connectivity. There are a wide variety of ICA approaches that have been proposed, in this paper we focus upon two distinct methods. The first part of this paper reviews the use of ICA for making group inferences from fMRI data. We provide an overview of current approaches for utilizing ICA to make group inferences with a focus upon the group ICA approach implemented in the GIFT software. In the next part of this paper, we provide an overview of the use of ICA to combine or fuse multimodal data. ICA has proven particularly useful for data fusion of multiple tasks or data modalities such as single nucleotide polymorphism (SNP) data or event-related potentials. As demonstrated by a number of examples in this paper, ICA is a powerful and versatile data-driven approach for studying the brain.</dcterms:abstract>
+        <dc:title>A review of group ICA for fMRI data and ICA for joint inference of imaging, genetic, and ERP data</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2633">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S1053811908012032/1-s2.0-S1053811908012032-main.pdf?_tid=f05bbb54-0107-4233-b6e7-77ac76c58a70&amp;acdnat=1530820713_ee860924bed99e08fdd9008f37f14dab</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-07-05 19:55:38</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2632">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1053811908012032</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-07-05 19:55:35</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0730725X04002772">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0730-725X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adalı</foaf:surname>
+                        <foaf:givenname>Tulay</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pekar</foaf:surname>
+                        <foaf:givenname>James J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2636"/>
+        <link:link rdf:resource="#item_2635"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Brain</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>fMRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Functional</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ICA</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Independent component analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0730725X04002772</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1181-1191</bib:pages>
+        <dc:date>November 1, 2004</dc:date>
+        <dcterms:dateSubmitted>2018-07-05 19:55:43</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Independent component analysis (ICA) is an approach for decomposing fMRI data into spatially independent maps and time courses. We have recently proposed a method for ICA of multisubject data; in the current paper, an extension is proposed for allowing ICA group comparisons. This method is applied to data from experiments designed to stimulate visual cortex, motor cortex or both visual and motor cortices. Several intergroup and intragroup metrics are proposed for assessing the utility of the components for comparisons of group ICA data. The proposed method may prove to be useful in answering questions requiring multigroup comparisons when a flexible modeling approach is desired.</dcterms:abstract>
+        <dc:title>A method for comparing group fMRI data using independent component analysis: application to visual, motor and visuomotor tasks</dc:title>
+        <z:shortTitle>A method for comparing group fMRI data using independent component analysis</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0730-725X">
+        <prism:volume>22</prism:volume>
+        <prism:number>9</prism:number>
+        <dc:title>Magnetic Resonance Imaging</dc:title>
+        <dc:identifier>ISSN 0730-725X</dc:identifier>
+        <dcterms:alternative>Magnetic Resonance Imaging</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.mri.2004.09.004</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2636">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S0730725X04002772/1-s2.0-S0730725X04002772-main.pdf?_tid=c47f37fe-77fd-43d9-90ec-595a4104166a&amp;acdnat=1530820723_3b774399f03ef82b0c2d8195877dd8ac</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-07-05 19:55:46</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2635">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0730725X04002772</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-07-05 19:55:45</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1053811917306572">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>NeuroImage</dc:title>
+                <dc:identifier>ISSN 1053-8119</dc:identifier>
+                <dcterms:alternative>NeuroImage</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.neuroimage.2017.08.010</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shine</foaf:surname>
+                        <foaf:givenname>James M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poldrack</foaf:surname>
+                        <foaf:givenname>Russell A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3133"/>
+        <link:link rdf:resource="#item_3134"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>fMRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Integration</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Network</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Segregation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Topology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811917306572</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>August 3, 2017</dc:date>
+        <dcterms:dateSubmitted>2018-08-21 22:00:02</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Recent methodological advances have enabled researchers to track the network structure of the human brain over time. Together, these studies provide novel insights into effective brain function, highlighting the importance of the systems-level perspective in understanding the manner in which the human brain organizes its activity to facilitate behavior. Here, we review a range of recent fMRI and electrophysiological studies that have mapped the relationship between inter-regional communication and network structure across a diverse range of brain states. In doing so, we identify both behavioral and biological axes that may underlie the tendency for network reconfiguration. We conclude our review by providing suggestions for future research endeavors that may help to refine our understanding of the functioning of the human brain.</dcterms:abstract>
+        <dc:title>Principles of dynamic network reconfiguration across diverse brain states</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3133">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S1053811917306572/1-s2.0-S1053811917306572-main.pdf?_tid=c95fb516-4f33-46b2-b912-2954bd1cc7ff&amp;acdnat=1534888982_5c73c6c03a6c85adb8ca106e18ce313d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-08-21 22:00:07</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_3134">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1053811917306572</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-08-21 22:00:06</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1053811916307881">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Functional Architecture of the Brain</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>160</prism:volume>
+                <dc:title>NeuroImage</dc:title>
+                <dc:identifier>ISSN 1053-8119</dc:identifier>
+                <dcterms:alternative>NeuroImage</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.neuroimage.2016.12.061</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Preti</foaf:surname>
+                        <foaf:givenname>Maria Giulia</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bolton</foaf:surname>
+                        <foaf:givenname>Thomas AW</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van De Ville</foaf:surname>
+                        <foaf:givenname>Dimitri</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3252"/>
+        <link:link rdf:resource="#item_3251"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dynamic functional connectivity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dynamic graph analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Frame-wise description</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sliding window analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>State characterization</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Temporal modeling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Time/frequency analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811916307881</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>41-54</bib:pages>
+        <dc:date>October 15, 2017</dc:date>
+        <dcterms:dateSubmitted>2018-09-11 17:57:00</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>Resting-state functional magnetic resonance imaging (fMRI) has highlighted the rich structure of brain activity in absence of a task or stimulus. A great effort has been dedicated in the last two decades to investigate functional connectivity (FC), i.e. the functional interplay between different regions of the brain, which was for a long time assumed to have stationary nature. Only recently was the dynamic behaviour of FC revealed, showing that on top of correlational patterns of spontaneous fMRI signal fluctuations, connectivity between different brain regions exhibits meaningful variations within a typical resting-state fMRI experiment. As a consequence, a considerable amount of work has been directed to assessing and characterising dynamic FC (dFC), and several different approaches were explored to identify relevant FC fluctuations. At the same time, several questions were raised about the nature of dFC, which would be of interest only if brought back to a neural origin. In support of this, correlations with electroencephalography (EEG) recordings, demographic and behavioural data were established, and various clinical applications were explored, where the potential of dFC could be preliminarily demonstrated. In this review, we aim to provide a comprehensive description of the dFC approaches proposed so far, and point at the directions that we see as most promising for the future developments of the field. Advantages and pitfalls of dFC analyses are addressed, helping the readers to orient themselves through the complex web of available methodologies and tools.</dcterms:abstract>
+        <dc:title>The dynamic functional connectome: State-of-the-art and perspectives</dc:title>
+        <z:shortTitle>The dynamic functional connectome</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3252">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ac.els-cdn.com/S1053811916307881/1-s2.0-S1053811916307881-main.pdf?_tid=212b3405-c669-4839-b960-26926b751afc&amp;acdnat=1536688799_9c2b5c26a46ec7626ed16f078c2dc17c</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-09-11 17:57:05</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_3251">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1053811916307881?via%3Dihub</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-09-11 17:57:05</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.biorxiv.org/content/early/2017/06/22/153411">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>bioRxiv</dc:title>
+                <dc:identifier>DOI 10.1101/153411</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miller</foaf:surname>
+                        <foaf:givenname>Robyn L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adali</foaf:surname>
+                        <foaf:givenname>Tulay</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Levin-Schwartz</foaf:surname>
+                        <foaf:givenname>Yuri</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calhoun</foaf:surname>
+                        <foaf:givenname>Vince D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3254"/>
+        <link:link rdf:resource="#item_3255"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.biorxiv.org/content/early/2017/06/22/153411</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>© 2017, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution-NonCommercial-NoDerivs 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+        <bib:pages>153411</bib:pages>
+        <dc:date>2017-06-22</dc:date>
+        <dcterms:dateSubmitted>2018-09-11 17:59:54</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.biorxiv.org</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Studies of resting state functional MRI (rs-fRMI) are increasingly focused on “dynamics”, or on those properties of brain activation that manifest and vary on timescales shorter than the scan's full duration. This shift in focus has led to a flurry of interest in developing hypothesis testing frameworks and null models applicable to the dynamical setting. Thus far however, efforts in this direction have been weakened by a number of crucial shortcomings, several of which are outlined and discussed in this short paper. The discussion below is important because the weaknesses exhibited by many of the recently proposed models are not merely quantitative or parametric. Rather they are fundamental, falling into categories that ultimately neutralize the ability of the resulting models to play a scientifically clarifying role, while simultaneously injecting distracting new vectors of murkiness and confusion into a young but promising research enterprise these efforts are surely intended to support. One key point emphasized in this paper is that since functionally relevant temporal variations in brain activation are undeniably continual in living human rs-fMRI subjects (e.g., the period of time during which all neural activity throughout a human brain carries no functional relevance whatsoever is something whose existence, even during stroke or seizure, seems highly improbable), “absence of brain dynamics” as a null hypothesis for fMRI imaging studies is neither scientifically interesting nor well-defined. As we learn more about the phenomenon of functionally relevant brain dynamics (FRBD) and its imaging correlates, scientifically meaningful null hypotheses and well-tuned null models will naturally emerge. In the course of our discussion, we revisit the important concept of stationarity, what it is, how to assess it from multiple realizations of a process and finally attempt to parse through the benefits and limitations of applying this property in models of rs-fMRI data. We hope that the discussions herein are useful, and promote thoughtful consideration of these important issues.</dcterms:abstract>
+        <dc:title>Resting-State fMRI Dynamics and Null Models: Perspectives, Sampling Variability, and Simulations</dc:title>
+        <z:shortTitle>Resting-State fMRI Dynamics and Null Models</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3254">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.biorxiv.org/content/early/2017/06/22/153411.full.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-09-11 17:59:56</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_3255">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.biorxiv.org/content/early/2017/06/22/153411</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-09-11 18:00:01</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/nrn2961">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1471-0048"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deco</foaf:surname>
+                        <foaf:givenname>Gustavo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jirsa</foaf:surname>
+                        <foaf:givenname>Viktor K.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McIntosh</foaf:surname>
+                        <foaf:givenname>Anthony R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3594"/>
+        <link:link rdf:resource="#item_3595"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.nature.com/articles/nrn2961</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>2010 Nature Publishing Group</dc:rights>
+        <bib:pages>43-56</bib:pages>
+        <dc:date>2011-01</dc:date>
+        <dcterms:dateSubmitted>2018-10-19 22:06:46</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.nature.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>A broad body of experimental work has demonstrated that apparently spontaneous brain activity is not random. At the level of large-scale neural systems, as measured with functional MRI (fMRI), this ongoing activity reflects the organization of a series of highly coherent functional networks. These so-called resting-state networks (RSNs) closely relate to the underlying anatomical connectivity but cannot be understood in those terms alone. Here we review three large-scale neural system models of primate neocortex that emphasize the key contributions of local dynamics, signal transmission delays and noise to the emerging RSNs. We propose that the formation and dissolution of resting-state patterns reflects the exploration of possible functional network configurations around a stable anatomical skeleton.</dcterms:abstract>
+        <dc:title>Emerging concepts for the dynamical organization of resting-state activity in the brain</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1471-0048">
+        <prism:volume>12</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Nature Reviews Neuroscience</dc:title>
+        <dc:identifier>ISSN 1471-0048</dc:identifier>
+        <dc:identifier>DOI 10.1038/nrn2961</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3594">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.nature.com/articles/nrn2961.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-10-19 22:06:53</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_3595">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.nature.com/articles/nrn2961</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-10-19 22:06:56</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.frontiersin.org/articles/10.3389/fnhum.2012.00339/full">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1662-5161"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tagliazucchi</foaf:surname>
+                        <foaf:givenname>Enzo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Von Wegner</foaf:surname>
+                        <foaf:givenname>Frederic</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morzelewski</foaf:surname>
+                        <foaf:givenname>Astrid</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brodbeck</foaf:surname>
+                        <foaf:givenname>Verena</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laufs</foaf:surname>
+                        <foaf:givenname>Helmut</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3604"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>brain networks</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>brain oscillations</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dynamic connectivity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>EEG-fMRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>resting state</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fnhum.2012.00339/full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2012</dc:date>
+        <dcterms:dateSubmitted>2018-10-19 22:13:48</dcterms:dateSubmitted>
+        <z:libraryCatalog>Frontiers</z:libraryCatalog>
+        <z:language>English</z:language>
+        <dcterms:abstract>Neural oscillations subserve many human perceptual and cognitive operations. Accordingly, brain functional connectivity is not static in time, but fluctuates dynamically following the synchronization and desynchronization of neural populations. This dynamic functional connectivity has recently been demonstrated in spontaneous fluctuations of the Blood Oxygen Level-Dependent (BOLD) signal, measured with functional Magnetic Resonance Imaging (fMRI). We analyzed temporal fluctuations in BOLD connectivity and their electrophysiological correlates, by means of long (approx. 50 min) joint electroencephalographic (EEG) and fMRI recordings obtained from two populations: 15 awake subjects and 13 subjects undergoing vigilance transitions. We identified positive and negative correlations between EEG spectral power (extracted from electrodes covering different scalp regions) and fMRI BOLD connectivity in a network of 90 cortical and subcortical regions (with millimeter spatial resolution). In particular, increased alpha (8-12 Hz) and beta (15-30 Hz) power were related to decreased functional connectivity, whereas gamma (30-60 Hz) power correlated positively with BOLD connectivity between specific brain regions. These patterns were altered for subjects undergoing vigilance changes, with slower oscillations being correlated with functional connectivity increases. Dynamic BOLD functional connectivity was reflected in the fluctuations of graph theoretical indices of network structure, with changes in frontal and central alpha power correlating with average path length. Our results strongly suggest that fluctuations of BOLD functional connectivity have a neurophysiological origin. Positive correlations with gamma can be interpreted as facilitating increased BOLD connectivity needed to integrate brain regions for cognitive performance. Negative correlations with alpha suggest a temporary functional weakening of local and long-range connectivity, associated with an idling state.</dcterms:abstract>
+        <dc:title>Dynamic BOLD functional connectivity in humans and its electrophysiological correlates</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1662-5161">
+        <prism:volume>6</prism:volume>
+        <dc:title>Frontiers in Human Neuroscience</dc:title>
+        <dc:identifier>ISSN 1662-5161</dc:identifier>
+        <dcterms:alternative>Front. Hum. Neurosci.</dcterms:alternative>
+        <dc:identifier>DOI 10.3389/fnhum.2012.00339</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3604">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fnhum.2012.00339/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-10-19 22:13:57</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.liebertpub.com/doi/10.1089/brain.2014.0250">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <prism:number>10</prism:number>
+                <dc:title>Brain Connectivity</dc:title>
+                <dc:identifier>ISSN 2158-0014, 2158-0022</dc:identifier>
+                <dc:identifier>DOI 10.1089/brain.2014.0250</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keilholz</foaf:surname>
+                        <foaf:givenname>Shella Dawn</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3636"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.liebertpub.com/doi/10.1089/brain.2014.0250</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>769-779</bib:pages>
+        <dc:date>12/2014</dc:date>
+        <dcterms:dateSubmitted>2018-10-19 22:24:09</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Dynamic network analysis based on resting-state magnetic resonance imaging (rsMRI) is a fairly new and potentially powerful tool for neuroscience and clinical research. Dynamic analysis can be sensitive to changes that occur in psychiatric or neurologic disorders and can detect variations related to performance on individual trials in healthy subjects. However, the appearance of time-varying connectivity can also arise in signals that share no temporal information, complicating the interpretation of dynamic functional connectivity studies. Researchers have begun utilizing simultaneous imaging and electrophysiological recording to elucidate the neural basis of the networks and their variability in animals and in humans. In this article, we review ﬁndings that link changes in electrically recorded brain states to changes in the networks obtained with rsMRI and discuss some of the challenges inherent in interpretation of these studies. The literature suggests that multiple brain processes may contribute to the dynamics observed, and we speculate that it may be possible to separate particular aspects of the rsMRI signal to enhance sensitivity to certain types of neural activity, providing new tools for basic neuroscience and clinical research.</dcterms:abstract>
+        <dc:title>The Neural Basis of Time-Varying Resting-State Functional Connectivity</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3636">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.liebertpub.com/doi/pdf/10.1089/brain.2014.0250</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-10-19 22:24:08</dcterms:dateSubmitted>
+        <dc:title>Keilholz - 2014 - The Neural Basis of Time-Varying Resting-State Fun.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S1053811915010782">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>127</prism:volume>
+                <dc:title>NeuroImage</dc:title>
+                <dc:identifier>ISSN 1053-8119</dc:identifier>
+                <dcterms:alternative>NeuroImage</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.neuroimage.2015.11.055</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hindriks</foaf:surname>
+                        <foaf:givenname>R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adhikari</foaf:surname>
+                        <foaf:givenname>M. H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murayama</foaf:surname>
+                        <foaf:givenname>Y.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ganzetti</foaf:surname>
+                        <foaf:givenname>M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mantini</foaf:surname>
+                        <foaf:givenname>D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Logothetis</foaf:surname>
+                        <foaf:givenname>N. K.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deco</foaf:surname>
+                        <foaf:givenname>G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3860"/>
+        <link:link rdf:resource="#item_3861"/>
+        <link:link rdf:resource="#item_3862"/>
+        <link:link rdf:resource="#item_3863"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dynamic functional connectivity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Functional MRI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Resting state</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Surrogate data</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811915010782</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>242-256</bib:pages>
+        <dc:date>February 15, 2016</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>During the last several years, the focus of research on resting-state functional magnetic resonance imaging (fMRI) has shifted from the analysis of functional connectivity averaged over the duration of scanning sessions to the analysis of changes of functional connectivity within sessions. Although several studies have reported the presence of dynamic functional connectivity (dFC), statistical assessment of the results is not always carried out in a sound way and, in some studies, is even omitted. In this study, we explain why appropriate statistical tests are needed to detect dFC, we describe how they can be carried out and how to assess the performance of dFC measures, and we illustrate the methodology using spontaneous blood-oxygen level-dependent (BOLD) fMRI recordings of macaque monkeys under general anesthesia and in human subjects under resting-state conditions. We mainly focus on sliding-window correlations since these are most widely used in assessing dFC, but also consider a recently proposed non-linear measure. The simulations and methodology, however, are general and can be applied to any measure. The results are twofold. First, through simulations, we show that in typical resting-state sessions of 10min, it is almost impossible to detect dFC using sliding-window correlations. This prediction is validated by both the macaque and the human data: in none of the individual recording sessions was evidence for dFC found. Second, detection power can be considerably increased by session- or subject-averaging of the measures. In doing so, we found that most of the functional connections are in fact dynamic. With this study, we hope to raise awareness of the statistical pitfalls in the assessment of dFC and how they can be avoided by using appropriate statistical methods.</dcterms:abstract>
+        <dc:title>Can sliding-window correlations reveal dynamic functional connectivity in resting-state fMRI?</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3860">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ac.els-cdn.com/S1053811915010782/1-s2.0-S1053811915010782-main.pdf?_tid=a362dd64-5c2c-11e7-848c-00000aacb35e&amp;acdnat=1498673424_98811cbace3e9af1ccb82401e4da6d75</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-06-28 18:07:30</dcterms:dateSubmitted>
+        <dc:title>1-s2.0-S1053811915010782-main.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_3861">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>1-s2.0-S1053811915010782-main.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_3862">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>1-s2.0-S1053811915010782-main.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_3863">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S1053811915010782</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-06-28 18:05:39</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
